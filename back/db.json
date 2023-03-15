@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "body": "Hello HTML"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "body": "Hello CSS"
+    },
+    {
+      "id": 3,
+      "title": "javascript",
+      "body": "Hello javascript"
+    }
+  ]
+}
